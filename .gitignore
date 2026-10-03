@@ -1,0 +1,32 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.log
+
+# Python artifacts, if used for supporting analysis
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local datasets and exports: do not publish sensitive or private data
+data/raw/
+data/private/
+*.csv
+*.xlsx
+*.xls
+*.bak
+*.sql.gz
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Power BI temporary files
+*.pbix.autosave
