@@ -1,2 +1,13 @@
-# Hospital-Analytics-and-Operations-Performance
-Hospital Analytics and Operations Performance project using SQL, MySQL, and Power BI to clean, validate, and analyze hospital data, track key performance indicators (KPIs), and build interactive dashboards for patient, doctor, appointment, treatment, admission, and billing analysis.
+# Dashboard Screenshots
+
+Add sanitized PNG or JPG screenshots of the final Power BI report here.
+
+Suggested screenshots:
+- `overview.png`
+- `appointments.png`
+- `treatments.png`
+- `billing.png`
+
+Before adding images, verify that they contain no patient-identifiable,
+confidential, or otherwise restricted information. Only add screenshots
+from the final refreshed report.
